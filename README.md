@@ -1,6 +1,6 @@
 # Next.js GitHub Actions CD + AWS CDK Infrastructure
 
-> If you're looking for a solution with a lower TCO, please refer to the [low-cost](https://github.com/dcastillogi/aws-nextjs-deployment/tree/low-cost) branch.
+> If you're looking for a solution with a lower TCO, please refer to the [aws-fargate-nextjs-lightweight](https://github.com/dcastillogi/aws-fargate-nextjs-lightweight) repository.
 
 Are you looking to deploy your Next.js project on AWS with high availability? This repository has everything you need:  
 
